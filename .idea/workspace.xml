@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f24a96a9-dc4f-4a30-81e4-02bb00a132ec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/InventorySystem.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealers.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealers_sorted.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="f24a96a9-dc4f-4a30-81e4-02bb00a132ec" name="Changes" comment="Sorted Dealers txt File">
       <change afterPath="$PROJECT_DIR$/output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,8 +61,41 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1710996965859</updated>
-      <workItem from="1710996972897" duration="725000" />
+      <workItem from="1710996972897" duration="1084000" />
     </task>
+    <task id="LOCAL-00001" summary="Creating Project">
+      <option name="closed" value="true" />
+      <created>1710997793666</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710997793666</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Dealers txt file">
+      <option name="closed" value="true" />
+      <created>1710998001258</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710998001258</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Main Python File">
+      <option name="closed" value="true" />
+      <created>1710998023358</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710998023358</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Sorted Dealers txt File">
+      <option name="closed" value="true" />
+      <created>1710998066178</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710998066178</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,5 +103,13 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Creating Project" />
+    <MESSAGE value="Dealers txt file" />
+    <MESSAGE value="Main Python File" />
+    <MESSAGE value="Sorted Dealers txt File" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sorted Dealers txt File" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/InventorySystem$main.coverage" NAME="main Coverage Results" MODIFIED="1710997489110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
