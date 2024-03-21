@@ -1,0 +1,8 @@
+Jagath,Colombo,0716873942,VGA,MSI,10,120000,Monitor,AOC,5,15000,Wifi_router,Linksys,20,9500
+Sadithi,Gampaha,0717641047,VGA,Gigabyte,10,120000,Monitor,MSI,5,15000,Wifi_router,Netgear,20,9500
+Vishwa,Jaela,071130961,VGA,Gigabyte,10,120000,Monitor,MSI,5,15000,Wifi_router,Netgear,20,9500
+Kavindi,Kandy,0715062945,VGA,Asus,10,120000,Monitor,BenQ,5,15000,Wifi_router,D-Link,20,9500
+Hirusha,Negombo,0713287651,VGA,AMD,10,120000,Monitor,Acer,5,15000,Wifi_router,ASUS,20,9500
+Kumara,Ragama,0712459076,VGA,Asus,10,120000,Monitor,MSI,5,15000,Wifi_router,Netgear,20,9500
+Akash,Seeduwa,0717720487,VGA,Asus,10,120000,Monitor,LG,5,15000,Wifi_router,SLT,20,9500
+Sahan,Wattala,0711358047,VGA,Gigabyte,10,120000,Monitor,MSI,5,15000,Wifi_router,Netgear,20,9500
